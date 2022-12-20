@@ -30,7 +30,7 @@
 ### :stars: 팀원
 - [:rabbit2:신은지](https://github.com/eunjishinrabbit)
 - [이희주](https://github.com/brownsally2)
-- [이한솔](https://github.com/solsol529)
+- [:hatched_chick:이한솔](https://github.com/solsol529)
 
 ### :stars: 개발 기간
 - 기획 : 2022.11.21 - 2022.12.02
